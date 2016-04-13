@@ -1,0 +1,15 @@
+{
+  "name": "mc-okada/fuel-data",
+  "type": "fuel-package",
+  "homepage": "https://github.com/mc-okada/fuel-data",
+  "license": "MIT",
+  "authors": [
+    { "name": "mc-okada" }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "extra": {
+    "installer-name": "data"
+  }
+}
